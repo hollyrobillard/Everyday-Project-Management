@@ -71,22 +71,22 @@ footer a:hover {
 
 .learn-more-button,
 .phase-button {
-  color: white;
-  background-color: #d72a25;
+  color: white!important;
+  background-color: #d72a25!important;
 }
 
 .learn-more-button:hover {
-  color: #d72a25;
+  color: #d72a25!important;
   font-weight: bold;
   padding: 8px 14px;
-  background-color: white;
+  background-color: white!important;
 }
 
 .phase-button:hover {
-  color: #d72a25;
+  color: #d72a25!important;
   font-weight: bold;
   padding: 8px 14px;
-  background-color: white;
+  background-color: white!important;
 }
 
 @media (max-width: 600px) {
