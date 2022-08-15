@@ -67,6 +67,12 @@ button {
   padding: 10px 25px;
 }
 
+button:hover {
+  color: #d72a25;
+  font-weight: bold;
+  background-color: white;
+}
+
 .source-link {
   color: #d72a25;
 }
