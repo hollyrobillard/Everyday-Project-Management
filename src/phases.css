@@ -77,6 +77,7 @@ button {
   display: block;
   margin: 50px auto!important;
   color: white;
+  font-size: 24px!important;
   background-color: #d72a25;
   border: 1px solid #d72a25;
   border-radius: 4px!important;
