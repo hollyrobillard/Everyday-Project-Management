@@ -65,12 +65,12 @@ footer a:hover {
 
 button {
   display: block;
-  margin: 0 auto 20px auto;
+  margin: 0 auto 20px auto!important;
   color: white;
   background-color: #d72a25;
   border: 1px solid #d72a25;
-  border-radius: 4px;
-  font-size: 24px;
+  border-radius: 4px!important;
+  font-size: 24px!important;
   padding: 10px 25px;
 }
 
