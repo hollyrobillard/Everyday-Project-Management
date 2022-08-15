@@ -69,6 +69,7 @@ button {
 
 button:hover {
   color: #d72a25;
+  border: 1px solid #d72a25;
   font-weight: bold;
   background-color: white;
 }
